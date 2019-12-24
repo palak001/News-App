@@ -1,2 +1,2 @@
 # News-App
-##A small News App using Google's news API
+## A small News App using Google's news API
